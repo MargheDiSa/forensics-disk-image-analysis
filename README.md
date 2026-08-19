@@ -1,7 +1,9 @@
 # Forensic Disk Image Analysis
 
 ## Overview
-Breve spiegazione del progetto e dello scenario.
+
+M57-Jean è un caso di digital forensics che riguarda una piccola azienda, M57.Biz, nella quale sono state divulgate pubblicamente informazioni riservate relative ai dipendenti e ai loro stipendi. I dati provenivano da un foglio di calcolo conservato sul laptop di Jean, una dirigente dell'azienda e l'unica persona che, per quanto noto, aveva accesso al documento.
+Jean nega di aver divulgato le informazioni e sostiene che il suo laptop potrebbe essere stato compromesso. Lo scopo dell'indagine è analizzare l'immagine forense del suo laptop e determinare in che modo i dati riservati siano stati ottenuti e divulgati.
 
 ## Objectives
 Cosa vogliamo determinare attraverso l'analisi.
